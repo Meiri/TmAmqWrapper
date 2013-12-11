@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMQWrapper", "AMQWrapper\AMQWrapper.csproj", "{B2AB6DC8-E483-41EA-BB48-0B15019DDC4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmqWrapper.Tests", "AmqWrapper.Tests\AmqWrapper.Tests.csproj", "{05BF3754-DB5C-42BA-A605-F6436646A289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AB6DC8-E483-41EA-BB48-0B15019DDC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AB6DC8-E483-41EA-BB48-0B15019DDC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AB6DC8-E483-41EA-BB48-0B15019DDC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AB6DC8-E483-41EA-BB48-0B15019DDC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BF3754-DB5C-42BA-A605-F6436646A289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BF3754-DB5C-42BA-A605-F6436646A289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BF3754-DB5C-42BA-A605-F6436646A289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BF3754-DB5C-42BA-A605-F6436646A289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
